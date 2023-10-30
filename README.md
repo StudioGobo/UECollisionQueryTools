@@ -1,5 +1,5 @@
 # UECollisionQueryTools
-This repo contains code for the CollisionQueryTestActor tool, mentioned in the Unreal Fest 2023 talk 'Making Sense Of Collision Data'.
+This repo contains code for the CollisionQueryTestActor tool, mentioned in the Unreal Fest 2023 talk _Making Sense Of Collision Data_. A recording of the talk is available here: https://www.youtube.com/watch?v=xIQI6nXFygA
 
 This is a simple actor to help with testing collision queries and understanding collision data in levels in Unreal Engine. The actor can be configured to perform any collision query on tick.
 
